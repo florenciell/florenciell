@@ -18,11 +18,8 @@ I am a student from SMK Negeri 8 Jember
 <a href="https://www.instagram.com/yours/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.whatsapps.com/yours/">
-  <img align="left" alt="Goo's Whatsapp" width="20px" src="https://simpleicons.now.sh/whatsapp/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+<a href="https://www.twitter.com/yours/">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Florence&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
